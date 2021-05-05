@@ -1,3 +1,3 @@
 # ShperPodsSpecs
 
-# source 'https://github.com/shper/ShperPodsSpecs.git'
+source 'https://github.com/shper/ShperPodsSpecs.git'
